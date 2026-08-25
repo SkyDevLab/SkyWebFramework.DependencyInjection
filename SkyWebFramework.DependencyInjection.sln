@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyWebFramework.DependencyInjection", "SkyWebFramework.DependencyInjection.csproj", "{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0AB3BF05-4346-4AA6-1389-037BE0695223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyWebFramework.DependencyInjection.Tests", "tests\SkyWebFramework.DependencyInjection.Tests\SkyWebFramework.DependencyInjection.Tests.csproj", "{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}.Debug|x64.Build.0 = Debug|Any CPU
+		{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}.Debug|x86.Build.0 = Debug|Any CPU
+		{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}.Release|x64.ActiveCfg = Release|Any CPU
+		{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}.Release|x64.Build.0 = Release|Any CPU
+		{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}.Release|x86.ActiveCfg = Release|Any CPU
+		{C5DFAB18-6EC1-4AAB-ABD9-A3C44E897534}.Release|x86.Build.0 = Release|Any CPU
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}.Debug|x64.Build.0 = Debug|Any CPU
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}.Debug|x86.Build.0 = Debug|Any CPU
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}.Release|x64.ActiveCfg = Release|Any CPU
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}.Release|x64.Build.0 = Release|Any CPU
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}.Release|x86.ActiveCfg = Release|Any CPU
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF33C55F-26B8-46AD-99BF-1F57F8D107E5} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E52896C7-F7D0-42ED-8F2C-4F2E92097C29}
+	EndGlobalSection
+EndGlobal
