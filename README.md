@@ -188,3 +188,10 @@ string jsonReport = services.ExportRegistrationsAsJson();
 This project is licensed under the [MIT License](LICENSE.txt).
 
 Copyright (c) 2026 Surya Pratap Singh - **SkyWebFramework**
+
+
+## 👤 Author & Project Identity
+
+**SkyWebFramework.DependencyInjection** is created and maintained by **Surya Pratap Singh (SkyDevLab)**.
+
+GitHub: https://github.com/SkyDevLab
