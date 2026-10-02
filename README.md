@@ -1,7 +1,7 @@
 # SkyWebFramework.DependencyInjection
 
 [![NuGet Version](https://img.shields.io/nuget/v/SkyWebFramework.DependencyInjection.svg)](https://www.nuget.org/packages/SkyWebFramework.DependencyInjection)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
+[![GitHub](https://img.shields.io/badge/GitHub-SkyDevLab%2FSkyWebFramework.DependencyInjection-181717?logo=github)](https://github.com/SkyDevLab/SkyWebFramework.DependencyInjection)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
 [![.NET](https://img.shields.io/badge/.NET-8.0%20%7C%209.0-purple.svg)](https://dotnet.microsoft.com/)
 
 **SkyWebFramework.DependencyInjection** (EasyDI) is an enterprise-grade, high-performance convention and attribute-driven Dependency Injection framework for .NET 8 and .NET 9.
